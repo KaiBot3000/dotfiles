@@ -1,4 +1,4 @@
-export PATH=/usr/local/bin/psql:/usr/local/bin:$HOME/bin:/usr/local/opt/ruby/bin:$PATH:~/scripts
+export PATH=/usr/local/bin/psql:/usr/local/bin:$HOME/bin:/usr/local/opt/ruby/bin:~/scripts:$PATH
 
 ### Kai Things
 
@@ -11,6 +11,10 @@ export PS1="🍀  \[\033[36m\]\h:\u\[\033[0m\]\[\033[32m\] \W\[\033[33m\]\$(pars
 # Git autocomplete branch names
 source ~/.git-completion.sh
 # get the file from: https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash
+
+# jokes
+alias dino="dino.sh"
+alias git="git.sh"
 
 # Never ask a man for help again
 alias explain="man"
