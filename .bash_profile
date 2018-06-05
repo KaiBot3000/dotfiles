@@ -37,6 +37,7 @@ export EDITOR=subl
 # $ git config --global core.editor "subl -n -w"
 
 ### Mailchimp Things
+alias ssh-add='ssh-add -t 4h'
 
 
 ### Mapbox Things
