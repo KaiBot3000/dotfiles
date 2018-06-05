@@ -9,7 +9,7 @@ parse_git_branch() {
 export PS1="🍀 \[\033[36m\]kaichimp\[\033[0m\]\[\033[32m\] \W\[\033[33m\]\$(parse_git_branch)\[\033[00m\] $ "
 
 # Git autocomplete branch names
-# source ~/.git-completion.sh
+source ~/.git-completion.sh
 # get the file from: https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash
 
 # jokes
