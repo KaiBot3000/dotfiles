@@ -6,6 +6,7 @@
 - [all] .gitignore: don't forget what to forget
 - [all] sublime-settings: spaces, always and forever
 - [all] KaiStyle.terminal: preferences for the leet codez
+- [mailchimp] kaiReadme: [WIP] personal readme for sharing with new teammates
 
 
 ## Batteries not included (other stuff I like to have):
@@ -18,6 +19,6 @@
 ## TODO:
 - installation/setup notes:
     - [all] postgres
-    - [work] qgis
+    - [mapbox] qgis
     - [all] josm
     - [all] github ssh, etc protips/links
