@@ -37,31 +37,13 @@ export EDITOR=subl
 # $ git config --global core.editor "subl -n -w"
 
 ### Mailchimp Things
+source "${HOME}"/.env.*
+
 alias ssh-add='ssh-add -t 4h'
 
+# Linter aliases
+codesniffer_ruleset="~/src/mc-codesniffer-ruleset/MCStandard"
+alias phplint="phpcs --standard=${codesniffer_ruleset}"
+alias phpfix="phpcbf --standard=${codesniffer_ruleset}"
 
-### Mapbox Things
-
-## NVM - Node version manager
-# export NVM_DIR="/Users/kai/.nvm"
-# [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
-
-## ECS-Conex, for clearing images
-# export RegistryId="[redacted]"
-
-## Mapbox CLI commands
-# source "$(npm root -g)/mbxcli/mapbox.sh"
-
-## AWS configuration
-# export indexer=production
-# export SlackUser=@kaibot3000
-# export GitHubUser=KaiBot3000
-
-## AWS completer
-# complete -C '/usr/local/bin/aws_completer' aws
-
-## Postgres PGIS
-# export PGDATA=/usr/local/var/postgres
-
-## Mason - to publish new packages
-# export MASON_TRAVIS_TOKEN="[redacted]"
+# [redacted] vpn settings and aliases
