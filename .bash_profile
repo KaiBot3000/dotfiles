@@ -39,6 +39,10 @@ export EDITOR=subl
 ### Mailchimp Things
 source "${HOME}"/.env.*
 
+if [ -f ~/.devtool.env ]; then
+    source ~/.devtool.env
+fi
+
 alias ssh-add='ssh-add -t 4h'
 
 # Linter aliases
