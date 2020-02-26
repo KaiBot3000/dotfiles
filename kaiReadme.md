@@ -30,10 +30,10 @@ Everyone is different, and getting to know each other can take time. My goal wit
 
 
 ## Schedule
-This is a work in progress and will shift as I adjust to the culture here, but here's my starting point:
+- I work in Pacific time.
 - I work much better in mornings than evenings.
 - I have a dedicated office at home and focus well there, and also like being in an office with coworkers when possible.
-- I keep my calendar updated.
+- I keep my calendar updated, including weekly office hours.
 
 ## Communication
 I have a very strong preference for copious and transparent communication, especially when working in distributed teams. I learn a lot from other people debugging, answering questions, and spending time in public team channels, and will almost always pull conversation there rather than DM. Asking questions in public requires vulnerability and supporting that is important to me.
@@ -44,6 +44,7 @@ I have a very strong preference for copious and transparent communication, espec
 - I work best when I have context into why we need the work I'm/we're doing. If I can't have details, "[Person] and I talked it over and we have reasons, but can't share them" is wayyyy better than "I'll get back to you on that." I acknowledge that this comes with responsibility to handle this information carefully, both in how I handle additional context and how I pass that information on to others. 
 - I work towards consensus, while recognizing it's not always possible.
 - I'm introverted and happier in small groups, especially when I'm getting to know people.
+- I work towards asynchronous communication, keeping tickets and docs up to date so that people can maintain context without needing 1:1 communication and immediate input
 
 ### Medium
 - Slack > email for timely information.
