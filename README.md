@@ -6,13 +6,14 @@
 - [all] .gitignore: don't forget what to forget
 - [all] sublime-settings: spaces, always and forever
 - [all] KaiStyle.terminal: preferences for the leet codez
-- [mailchimp] kaiReadme: [WIP] personal readme for sharing with new teammates
+- [work] kaiReadme: [foreverWIP] personal readme for sharing with new teammates
 
 
 ## Batteries not included (other stuff I like to have):
 
-- [all] slack
+- [all] slack: chat platform
 - [all] streamkeys: chrome extension that maps music tabs to keyboard controls
+- [all] zoom: videochat platform optimized for distributed teams
 - [personal] thunderbird
 - [personal] steam
 
