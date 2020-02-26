@@ -4,23 +4,23 @@ Feedback is greatly appreciated!
 
 ## Motivations
 - Do No Harm: Just because we can, doesn't mean we should.
+- Get Shit Done: I love doing hard things with a solid team.
 - Help People: Nothing makes me happier than helping someone learn or build a new thing
 - Build Relationships: Good communication requires trust
 - Boost Equality: I want everyone to feel included and have ownership over their work.
-- Get Shit Done: I love doing hard things with a solid team.
 
 
 ## Needs
 
 ### From Manager
 - Direct and actionable feedback about how my actions affect them and others so I can improve
-- Guidance on internal politics: I need to know when I'm pushing too hard or not enough, pissing people off, or caring about the wrong things
+- Guidance on internal politics (For example, I need to know when I'm pushing too hard or not enough, pissing people off, or caring about the wrong things)
 - Help setting work-specific goals
 
 ### From Teammates
 - Direct and actionable feedback about how my actions affect them so I can improve
-- Honest code review so I can improve as an engineer and contribute meaningfully
-- Thoughtfulness around communication styles and how biases can affect their actions
+- Honest code review so I can improve as an engineer and contribute meaningfully (I want to hear when there's a better way to do something, and why)
+- Thoughtfulness around communication style (For example, when I'm teaching people I often ask lots of questions and look things up with them. That doesn't mean I need you to step in and take over, I'm just teaching them how to find things and debug)
 
 ### From Peers
 - Direct and actionable feedback about how my actions affect them so I can improve
@@ -32,8 +32,7 @@ Feedback is greatly appreciated!
 This is a work in progress and will shift as I adjust to the culture here, but here's my starting point:
 - I work much better in mornings than evenings.
 - I have a dedicated office at home and focus well there, and also like being in an office with coworkers when possible.
-- I keep my calendar updated including blocking out time I need to focus.
-- I don't have email on my phone, but I can change that if needed.
+- I keep my calendar updated.
 
 
 ## Goals
@@ -64,7 +63,7 @@ Longer term (1 year):
 - I like to think things through before acting, and do that better in writing than through talking. That sometimes means I don't speak up much in meetings.
 - I prefer slack pings over interruptions at my desk
 - I absorb written information better than spoken info, so I'll often gravitate towards docs over learning from video. This is true for videochat, too, although...
-- If communication feels tense for anyone involved, I default to in-person or videochat. It's much easier to miscommunicate via text.
+- If communication feels tense for anyone involved, I prefer in-person or videochat. It's much easier to miscommunicate via text.
 
 ### Feedback and Recognition
 - I prefer critical/constructive feedback privately via slack or in person / video in most situations. I don't need that for things like code review.
