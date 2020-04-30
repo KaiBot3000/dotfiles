@@ -10,7 +10,6 @@ Everyone is different, and getting to know each other can take time. My goal wit
 - Build Relationships: Good communication requires trust
 - Boost Equality: I want everyone to feel included and have ownership over their work.
 
-
 ## Needs
 
 ### From Manager
@@ -60,7 +59,7 @@ I have a very strong preference for copious and transparent communication, espec
 
 
 ## Big Moods
-I'm expressive and honest about how I'm feeling, which is something of a superpower. I've seen over and over again that teams do their best work when they trust each other and acknowledge that feelings are part of the devlopement process.
+I'm expressive and honest about how I'm feeling, which is something of a superpower. I've seen over and over again that teams (technical or otherwise) do their best work when they trust each other and acknowledge that feelings are part of the devlopement process. Let's create a place where we can be human with each other, by building trust and welcoming kind honesty.
 
 ### Mood Drains
 tl;dr, behaviors that signal lack of respect for me or others

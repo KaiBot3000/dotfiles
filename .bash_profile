@@ -21,6 +21,9 @@ alias explain="man"
 alias splain="man"
 alias learn="man"
 
+# Handy way to add alerts to finished commands
+alias done="afplay /System/Library/Sounds/Submarine.aiff"
+
 # Github key
 export GithubAccessToken="[redacted]"
 
